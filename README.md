@@ -1,6 +1,6 @@
 <img src="media/readme_image.jpg" alt="spyfall" width="250" align="right" style="padding: 50px;"/>
 
-# Long Competition 2025: Spyfall
+# NLP Spyfall Agent
 
 This is the repository for the 2025 UT Austin MLDS Long Competition MEH team.
 Agents is used to compete in a game of spyfall, and it can use LLMs and embedding models to ask/answer questions and determine the spy/location.
