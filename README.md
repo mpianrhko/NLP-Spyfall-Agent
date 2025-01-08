@@ -1,9 +1,9 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/wMzG4a2g)
 <img src="media/readme_image.jpg" alt="spyfall" width="250" align="right" style="padding: 50px;"/>
 
 # Long Competition 2025: Spyfall
 
-This is the repository for the 2025 UT Austin MLDS Long Competition where teams will be competing in a game of Spyfall. Teams will submit agents that can use LLMs and embedding models to ask/answer questions and determine the spy/location. The goal of this Long Competition is to show your LLM prompting/natural language processing skills.
+This is the repository for the 2025 UT Austin MLDS Long Competition MEH team.
+Agents is used to compete in a game of spyfall, and it can use LLMs and embedding models to ask/answer questions and determine the spy/location.
 
 ## Game Rules
 
