@@ -1,0 +1,14 @@
+einops
+gtts
+matplotlib
+numpy
+opt-einsum
+pandas
+praat-parselmouth
+pygame
+python-dotenv
+soundfile
+together
+torch
+tqdm
+transformers
